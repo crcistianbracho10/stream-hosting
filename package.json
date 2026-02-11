@@ -1,0 +1,12 @@
+{
+  "name": "stream-hosting",
+  "version": "1.0.0",
+  "description": "Sitio oficial con transmisiones y branding digital.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
